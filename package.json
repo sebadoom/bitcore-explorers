@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-explorers",
+  "name": "bitcore-explorers-bitcore-lib-0.13.19",
   "version": "1.0.1",
-  "description": "Module to query blockchain apis for Bitcore.",
+  "description": "Module to query blockchain apis for Bitcore using bitcore-lib-0.13.19",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -37,7 +37,7 @@
     "sinon": "^1.12.2"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.14",
+    "bitcore-lib": "^0.13.19",
     "browser-request": "^0.3.3",
     "request": "^2.51.0"
   }
