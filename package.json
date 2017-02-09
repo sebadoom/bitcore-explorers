@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-explorers",
-  "version": "1.0.1",
+  "name": "bitcore-explorers-bitcore-lib-0.13.19",
+  "version": "1.0.1-2",
   "description": "ECIES implemented for Bitcore.",
   "main": "index.js",
   "directories": {
@@ -37,7 +37,7 @@
     "sinon": "^1.12.2"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7",
+    "bitcore-lib": "^0.13.19",
     "browser-request": "^0.3.3",
     "request": "^2.51.0"
   }
